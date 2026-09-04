@@ -1,0 +1,6 @@
+{
+  "name": "4x4=5+3",
+  "description": "Aplicación interactiva de preparación preuniversitaria y preguntas fijas con apartados para Ultima Amanecida Ful Fijas (Raz. Verbal, Geografía, Lenguaje y Literatura, Raz. Lógico, Raz. Matemático), cursos de ciencias y letras, y exámenes de admisión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
